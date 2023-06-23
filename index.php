@@ -15,6 +15,12 @@
       <div class="content">
         <button class="btn">Reservaciones GHOSP pagina principal</button>
       </div>
+      <div class="banner_taital">
+                              <h2 class="our_text">Our Best</h2>
+                              <h1 class="gifts_text">Gifts Shop</h1>
+                              <p class="standerd_text">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested</p>
+                              <div class="red_bt"><a href="#">Read More</a></div>
+                           </div>
     </div>
     <div class="informations-container">
       <h2 class="title">Je suis un billet pour aller visiter un truc</h2>
